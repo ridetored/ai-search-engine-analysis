@@ -23,3 +23,5 @@ Install these packages using:
 
 ```bash
 pip install requests textblob
+
+https://seo4one.com/ai-search-engines/exploring-ai-powered-search-engines-the-future-of-online-information-retrieval
